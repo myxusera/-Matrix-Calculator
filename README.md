@@ -1,2 +1,5 @@
 # Matrix-Calculator
-Another old project done in July 2020. This simple matrix calculator in Python was my first attemp to OOP.
+Simple matrix calculator in Python.
+The purpose of this project was my first attempt to using OOP.
+
+July 2020.
